@@ -1,0 +1,36 @@
+_repo: Le-bol-de-Chine-ou-divagations-sur-les-beaux-arts_70789
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mille, Pierre
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '6263'
+    url: http://www.gutenberg.org/2009/agents/6263
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre_Mille
+description: ''
+gutenberg_issued: '2023-05-17'
+identifiers:
+  gutenberg: '70789'
+language: fr
+pgterms:marc904: https://archive.org/details/leboldechineoud00millgoog
+pgterms:marc905: 20230325030315mille
+pgterms:marc906: '1919'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aFrance :$bGeorges Crès, $c1919, pubdate 1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art'
+- !lcc 'N'
+- GITenberg
+tableOfContents: Le bol de Chine -- Le chef-d'œuvre -- Celui qui ressuscita -- Celui
+  qui ne réalisait pas -- Henri Rousseau, peintre et douanier -- A Fixin -- Isadora
+  Duncan -- M. Raymond Duncan -- Erreur dans le vocabulaire -- Le bas-relief -- Pour
+  une nouvelle ligue -- Les deux tribus -- Jean-Louis, ensemblier -- Simultanéistes
+  -- La singulière histoire du portrait -- Barnavaux et les beaux-arts -- L'idéal.
+title: Le bol de Chine; ou, divagations sur les beaux-arts
+url: http://www.gutenberg.org/ebooks/70789
