@@ -1,5 +1,8 @@
 _repo: Le-bol-de-Chine-ou-divagations-sur-les-beaux-arts_70789
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70789-h/images/cover.jpg
 creator:
   author:
     agent_name: Mille, Pierre
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6263
     wikipedia: https://fr.wikipedia.org/wiki/Pierre_Mille
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70789#Le-bol-de-Chine-ou-divagations-sur-les-beaux-arts
 gutenberg_issued: '2023-05-17'
 identifiers:
   gutenberg: '70789'
